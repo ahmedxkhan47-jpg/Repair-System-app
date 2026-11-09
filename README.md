@@ -1,0 +1,3 @@
+# Repair-System-app
+This is my second semster project with desktop app made in qt and the game in unreal engine 5 one of my projects in one of my course their is some problem of resolution in the execuatble so please drage the upper side and press the button just left to the cross sign on upper left  and the game is a bit un optimized so let it take its time to load 
+it assets and also the red warning that come during the setup hjsut leave it and dont run instead i dont have any viruses in there its just windows being extra smart so downlaod it run it it aso has a small sq lite databse hanging around its back so see also that and enjoy it
